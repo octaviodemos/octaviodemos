@@ -6,7 +6,7 @@
 - 📖 Atualmente estou Estudando TypeScript e Angular
 - 🖥️ Técnico em Eletrotécnica e estudande de Engenharia de Software
 
-## Tecnologias e linguagens 💻
+## 💻 Tecnologias e linguagens 
 <div style="display: inline_block">
   <img align="center" alt="Octavio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Octavio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
