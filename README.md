@@ -2,8 +2,8 @@
 
 ### Eu sou Assitente de desenvolvimento
 
-- 👨‍💻 Hoje trabalho com C#, WPF e SQL Server
-- 📖 Atualmente estou Estudando TypeScript e Angular
+- 👨‍💻 Hoje trabalho com C#, WPF, ASP.NET, Angular e SQL Server
+- 📖 Atualmente estou Estudando ASP.NET e Angular
 - 🖥️ Técnico em Eletrotécnica e estudande de Engenharia de Software
 
 ## 💻 Tecnologias e linguagens 
