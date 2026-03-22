@@ -57,7 +57,7 @@ Destaques:
 * Autenticação JWT com hash BCrypt
 * Docker Compose orquestrando API, frontend e banco de dados
 
-Repositório 👉 https://github.com/seu-usuario/HouseholdExpenses
+Repositório 👉 https://github.com/octaviodemos/HouseholdExpenses
 
 ---
 
