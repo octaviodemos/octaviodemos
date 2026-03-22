@@ -45,6 +45,20 @@
   <img align="center" alt="Octavio-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
 
+## 📌 Projetos em Destaque
+
+### 🏠 Household Expenses
+Sistema de controle de gastos residenciais desenvolvido para demonstrar
+Clean Architecture, DDD, autenticação JWT e boas práticas full stack.
+
+Destaques:
+* Arquitetura em camadas com separação clara de responsabilidades
+* 25 testes unitários cobrindo Domain e Use Cases
+* Autenticação JWT com hash BCrypt
+* Docker Compose orquestrando API, frontend e banco de dados
+
+Repositório 👉 https://github.com/seu-usuario/HouseholdExpenses
+
 ---
 
 <div> 
