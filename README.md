@@ -69,15 +69,34 @@ Plataforma de livraria com loja, carrinho, checkout, ofertas de venda e solicita
 Destaques:
 * API REST com NestJS + Prisma + PostgreSQL
 * Frontend em Angular 20 (standalone components)
-* Autenticação JWT, painel administrativo e integração com Stripe
-* Upload de imagens categorizadas por tipo
-
+* Visão Computacional com IA (Gemini): Avaliação automática do estado de conservação de livros e orçamento de reformas através da análise de fotos categorizadas.
+* Moderação e Processamento de Linguagem Natural: IA atuando como filtro da comunidade para bloqueio de linguagem ofensiva e alerta de spoilers nas resenhas.
+* Recomendações Inteligentes: Integração externa com a API do Skoob para cruzar a estante virtual do usuário com o catálogo da LIA usando IA.
+* Produtividade (Auto-fill): Sistema de "Cadastro Jato" no Admin, onde a IA identifica o livro apenas pela foto da capa e preenche os dados catalográficos automaticamente.
+* Segurança e Pagamentos: Autenticação JWT, Painel Administrativo robusto (RBAC) e integração de pagamentos via Stripe.
+  
 Repositórios 👉 [Backend](https://github.com/octaviodemos/lia-back-end) · [Frontend](https://github.com/octaviodemos/lia-front-end)
+
+---
+
+### 📱 Compila — Desafios de Programação com IA
+App mobile de desafios diários de programação com correção automática por Inteligência Artificial.
+
+Destaques:
+* React Native + Expo com tema dark e navegação por abas
+* Autenticação completa com Firebase Auth (login, cadastro, redefinição de senha)
+* Desafios de lógica em JavaScript e Python cadastrados no Firestore
+* Correção automática de respostas com Google Gemini via AI SDK da Vercel
+* Ranking semanal, sequência de dias e sistema de conquistas
+* Exportação do histórico de tentativas em PDF
+* Widget nativo Android em Kotlin integrado ao app
+* Notificações push para engajamento diário
+
+Repositório 👉 https://github.com/seu-usuario/compila-app
 
 ---
 
 <div> 
   <a href="https://www.instagram.com/octaviodemos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:octaviodemos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/octaviodemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
