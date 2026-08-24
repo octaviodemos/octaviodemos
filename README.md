@@ -92,7 +92,7 @@ Destaques:
 * Widget nativo Android em Kotlin integrado ao app
 * Notificações push para engajamento diário
 
-Repositório 👉 https://github.com/seu-usuario/compila-app
+Repositório 👉 https://github.com/octaviodemos/compila-app
 
 ---
 
