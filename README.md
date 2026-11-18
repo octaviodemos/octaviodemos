@@ -1,102 +1,54 @@
-## Olá, eu sou o Octávio Demos 😁
+## Olá, eu sou o Octávio Demos 👋
 
-### Eu sou Desenvolvedor Full Stack
+**Desenvolvedor Full Stack com foco em produto.** Trabalho em um software B2B de gestão com 350 clientes, fazendo a ponte entre clientes, suporte, comercial e desenvolvimento: entendo o problema, transformo em requisitos, desenvolvo e acompanho até o uso real.
 
-- 👨‍💻 Hoje trabalho com C#, WPF, ASP.NET, Angular, Flutter e SQL Server
-- 📖 Atualmente estou Estudando o Ecossistema ASP.NET, Flutter e Docker 
-- 🖥️ Técnico em Eletrotécnica e estudande de Engenharia de Software
+- 💼 Especialista de Produto na **Motel Mais Sistema**, onde também desenvolvo com C#/.NET, Angular, React, Flutter e SQL Server
+- 🤖 Uso IA no dia a dia com **Claude Code** (agentes, subagentes, worktrees, hooks e skills) e ChatGPT, e integro LLMs em produtos (Gemini, Claude, GPT via MCP)
+- 🎓 Estudante de Engenharia de Software na SATC e Técnico em Eletrotécnica
+- 📫 octaviodemos@gmail.com · [LinkedIn](https://www.linkedin.com/in/octaviodemos/)
 
-## 💻 Tecnologias e linguagens 
+---
 
-<table><tr>
-  <td><img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></td>
-  <td><img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></td>
-  <td><img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></td>
-  <td><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-  <td><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-  <td><img alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"></td>
-  <td><img alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"></td>
-  <td><img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></td>
-  <td><img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
-</tr></table>
+## 📌 Projetos em destaque
 
-## 🚀 Frameworks e bibliotecas
+### 📚 LIA: Livraria Inteligente Autônoma
+Plataforma de livraria com loja, carrinho, checkout, ofertas de venda e solicitações de reforma, com IA aplicada em várias partes do produto.
 
-<table><tr>
-  <td><img alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"></td>
-  <td><img alt=".NET Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"></td>
-  <td><img alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"></td>
-  <td><img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></td>
-  <td><img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"></td>
-  <td><img alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"></td>
-  <td><img alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"></td>
-  <td><img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"></td>
-  <td><img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></td>
-  <td><img alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"></td>
-</tr></table>
+- **Visão computacional com Gemini:** avalia o estado de conservação dos livros e orça reformas a partir de fotos
+- **Moderação com IA:** bloqueia linguagem ofensiva e alerta spoilers nas resenhas
+- **Cadastro por foto:** a IA identifica o livro pela capa e preenche os dados no painel administrativo
+- **Recomendações:** integração com a API do Skoob para cruzar a estante do usuário com o catálogo
+- **Back-end:** API REST com NestJS, Prisma e PostgreSQL, autenticação JWT, RBAC e pagamentos com Stripe
+- **Front-end:** Angular 20 com standalone components
 
-## 🛠️ Ferramentas de desenvolvimento
+👉 [Back-end](https://github.com/octaviodemos/lia-back-end) · [Front-end](https://github.com/octaviodemos/lia-front-end)
 
-<table><tr>
-  <td><img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"></td>
-  <td><img alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"></td>
-  <td><img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></td>
-  <td><img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></td>
-  <td><img alt="Azure DevOps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"></td>
-  <td><img alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"></td>
-  <td><img alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></td>
-</tr></table>
+### 📱 Compila: desafios de programação com IA
+App mobile de desafios diários de programação com correção automática por IA.
 
-## 📌 Projetos em Destaque
+- React Native + Expo, com Firebase Auth e Firestore
+- Correção das respostas com Google Gemini via AI SDK da Vercel
+- Ranking semanal, sequência de dias, conquistas e notificações push
+- Widget nativo Android em Kotlin e exportação do histórico em PDF
+
+👉 [Repositório](https://github.com/octaviodemos/compila-app)
 
 ### 🏠 Household Expenses
-Sistema de controle de gastos residenciais desenvolvido para demonstrar
-Clean Architecture, DDD, autenticação JWT e boas práticas full stack.
+Controle de gastos residenciais criado para demonstrar arquitetura e boas práticas full stack.
 
-Destaques:
-* Arquitetura em camadas com separação clara de responsabilidades
-* 25 testes unitários cobrindo Domain e Use Cases
-* Autenticação JWT com hash BCrypt
-* Docker Compose orquestrando API, frontend e banco de dados
+- .NET 9 com Clean Architecture e DDD; React 19 com TypeScript; PostgreSQL
+- 25 testes unitários cobrindo Domain e Use Cases
+- Autenticação JWT com hash BCrypt
+- Docker Compose orquestrando API, front-end e banco de dados
 
-Repositório 👉 https://github.com/octaviodemos/HouseholdExpenses
+👉 [Repositório](https://github.com/octaviodemos/HouseholdExpenses)
 
 ---
 
-### 📚 LIA — Livraria Inteligente Autônoma
-Plataforma de livraria com loja, carrinho, checkout, ofertas de venda e solicitações de reforma.
+## 🛠️ Stack
 
-Destaques:
-* API REST com NestJS + Prisma + PostgreSQL
-* Frontend em Angular 20 (standalone components)
-* Visão Computacional com IA (Gemini): Avaliação automática do estado de conservação de livros e orçamento de reformas através da análise de fotos categorizadas.
-* Moderação e Processamento de Linguagem Natural: IA atuando como filtro da comunidade para bloqueio de linguagem ofensiva e alerta de spoilers nas resenhas.
-* Recomendações Inteligentes: Integração externa com a API do Skoob para cruzar a estante virtual do usuário com o catálogo da LIA usando IA.
-* Produtividade (Auto-fill): Sistema de "Cadastro Jato" no Admin, onde a IA identifica o livro apenas pela foto da capa e preenche os dados catalográficos automaticamente.
-* Segurança e Pagamentos: Autenticação JWT, Painel Administrativo robusto (RBAC) e integração de pagamentos via Stripe.
-  
-Repositórios 👉 [Backend](https://github.com/octaviodemos/lia-back-end) · [Frontend](https://github.com/octaviodemos/lia-front-end)
-
----
-
-### 📱 Compila — Desafios de Programação com IA
-App mobile de desafios diários de programação com correção automática por Inteligência Artificial.
-
-Destaques:
-* React Native + Expo com tema dark e navegação por abas
-* Autenticação completa com Firebase Auth (login, cadastro, redefinição de senha)
-* Desafios de lógica em JavaScript e Python cadastrados no Firestore
-* Correção automática de respostas com Google Gemini via AI SDK da Vercel
-* Ranking semanal, sequência de dias e sistema de conquistas
-* Exportação do histórico de tentativas em PDF
-* Widget nativo Android em Kotlin integrado ao app
-* Notificações push para engajamento diário
-
-Repositório 👉 https://github.com/octaviodemos/compila-app
-
----
-
-<div> 
-  <a href="https://www.instagram.com/octaviodemos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/octaviodemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+- **Back-end:** C#, .NET, ASP.NET Core, Java (Spring Boot), Node.js (NestJS), Python, Kotlin
+- **Front-end e mobile:** TypeScript, JavaScript, Angular, React, React Native, Flutter, HTML, CSS
+- **Bancos de dados:** SQL Server, PostgreSQL, MySQL, MongoDB, Firestore
+- **IA:** Claude Code (agentes, subagentes, worktrees, hooks e skills), ChatGPT, Google Gemini, Vercel AI SDK, MCP, RAG, engenharia de prompt, visão computacional e integração de LLMs em produtos
+- **Ferramentas:** Docker, Git, GitHub, Azure DevOps, Postman, Visual Studio, VS Code
